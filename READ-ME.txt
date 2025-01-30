@@ -1,0 +1,4 @@
+  =>  Template Name    : enterprice static website
+  =>  Website licence  :license.txt
+
+  =>  Author Website   : https://sphericode.com
